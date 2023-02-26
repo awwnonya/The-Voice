@@ -9,7 +9,7 @@ Module        | Use
 :-------------: | :-------------:
 wikipedia     | Fetches the content of the query.
 pyttsx3       | Reads aloud the results fetched by `wikipedia`. 
-                Also adjusts rate, volume, gender and length.
+              |  Also adjusts rate, volume, gender and length.
 
 ## Functionalities:
 - This project requires the installation of two modules at first - `wikipedia` and `pyttsx3`. You can install it by typing `pip install wikipedia` and `pip install pyttsx3` in command prompt. 
