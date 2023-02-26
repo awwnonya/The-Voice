@@ -6,4 +6,4 @@ In the world of rat-race, many are hardly finding time to read. However, we all 
 Module        | Use
 :-------------: | :-------------:
 wikipedia     | Fetches the content of the query.
-pyttsx3       | Reads aloud the results fetched by wikipedia. also adjusts rate, volume, gender and length.
+pyttsx3       | Reads aloud the results fetched by `wikipedia`. Also adjusts rate, volume, gender and length.
