@@ -20,6 +20,8 @@ pyttsx3       | Reads aloud the results fetched by `wikipedia`. <br/>Also adjust
 - Whoa! Your query is answered.
 
 ## Future Scope:
-I have plan to implement more functions in the project like:
+As it is still in the development stage, I have plans to implement the functions in the project:
 - Read aloud results in different **languages**.
 - Options to save the results in __.mp3__ or **.txt** format.
+
+*Thanks for making it till here. Any suggestions and improvements are gladly appreciated! :)*
