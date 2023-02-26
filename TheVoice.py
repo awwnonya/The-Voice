@@ -31,7 +31,7 @@ else:
     print("Sorry! No appropriate value entered.")
     
 
-cmd= input('Enter your Query: ',)
+cmd= input('\nEnter your Query: ',)
 
 s= int(input("\nEnter number of sentences: "))
 
