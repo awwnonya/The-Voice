@@ -4,6 +4,6 @@
 In the world of rat-race, many are hardly finding time to read. However, we all have the desire to know more constantly. "The Voice" will help you to solve this purpose. It is a voice dictionary that will answer your queries through audio. Hence, instead of searching thoroughly in the dictionary or finding the right website to know your answer, "The Voice" will provide you accurate and crisp results in seconds. 
 ## Modules used:
 Module        | Use
-------------- | -------------
+:-------------: | :-------------:
 wikipedia     | Fetches the content of the query.
 pyttsx3       | Reads aloud the results fetched by wikipedia. also adjusts rate, volume, gender and length.
