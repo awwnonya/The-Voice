@@ -18,11 +18,11 @@ pyttsx3       | Reads aloud the results fetched by `wikipedia`. <br/>Also adjust
 - Then finally it takes the **query**, about which you want to know about.
 - Then, it wants to know the **length** of your results for your query.
 - Whoa! Your query is answered.
-- Finally, it
+- Finally, an update to save the results in __.mp3__ or **.txt** or both formats is provided.
 
 ## Future Scope:
 As it is still in the development stage, I have plans to implement the functions in the project:
 - Read aloud results in different **languages**.
-- Options to save the results in __.mp3__ or **.txt** format.
+- **Translates** a phrase from one language to another.
 
 *Thanks for making it till here. Any suggestions and improvements are gladly appreciated! :)*
