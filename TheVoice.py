@@ -39,4 +39,14 @@ result= wikipedia.summary(cmd, s)
 print(result)
 
 engine.say(result)
+
+c=input("\nDo you want to save the results as an audio (Y/N)? ")
+if(c=='Y' or c=='y'):
+    print("Okay! Audio saved as query.mp3")
+    engine.save_to_file(result, 'E:/query.mp3')
+elif (c=='N' or c=='n'):
+    print("Okay! Audio NOT saved.")
+else:
+    print("Sorry! Wrong choice entered.")
+    
 engine.runAndWait()
