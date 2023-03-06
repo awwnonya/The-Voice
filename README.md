@@ -16,8 +16,9 @@ pyttsx3       | Reads aloud the results fetched by `wikipedia`. <br/>Also adjust
 - Then it takes the **volume** at which you want your data to be read aloud. It ranges from 0 to 1, and the default value is 1.
 - Then it takes the **choice** of voice at which you want your data to be read aloud. It can be 0 for male and 1 for female. Its default value is 1.
 - Then finally it takes the **query**, about which you want to know about.
-- Lastly, it wants to know the **length** of your results for your query.
+- Then, it wants to know the **length** of your results for your query.
 - Whoa! Your query is answered.
+- Finally, it
 
 ## Future Scope:
 As it is still in the development stage, I have plans to implement the functions in the project:
