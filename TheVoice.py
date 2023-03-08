@@ -56,7 +56,7 @@ if(c=='Y' or c=='y'):
         print("Okay! Text File saved.\n")
         a='E:/'+cmd+'.txt'
         myfile=open(a, 'w')
-        myfile.write(result);
+        myfile.write(result)
         myfile.close()
         #engine.save_to_file(result, a)
 
@@ -67,7 +67,7 @@ if(c=='Y' or c=='y'):
 
         #engine.save_to_file(result, a1)
         myfile=open(a1, 'w')
-        myfile.write(result);
+        myfile.write(result)
         myfile.close()
         engine.save_to_file(result, a2) #saving as audio file
 
